@@ -1,3 +1,3 @@
 # IXD302 - Narrative and Storytelling
 
-- [Takehe html](https://github.com/IngaHampton/IXD302-Narrative-and-Storytelling/blob/master/extinct-bird.html)
+- [Takehe html](http://ingahampton.github.io/IXD302-Narrative-and-Storytelling/extinct-bird.html)
